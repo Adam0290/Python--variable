@@ -8,9 +8,3 @@ lunch = "toast"
 dinner = "corn flakes"
 
 print(f"this morning for breakfast I drank {breakfast}, after that I ate {lunch}, then for tea I had {dinner}.")
-
-
-
-
-
-
